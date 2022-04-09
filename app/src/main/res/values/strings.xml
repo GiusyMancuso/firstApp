@@ -8,4 +8,8 @@
     <string name="benvenuti">Benvenuti sulla vostra cartoleria a portata di touch!</string>
     <string name="intro">Registrati o accedi per scoprire tutte le nostre offerte</string>
     <string name="accedi">Accedi</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 </resources>
