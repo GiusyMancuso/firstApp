@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cartoleria</string>
+    <string name="action_settings">Opzioni</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Welcome</string>
+    <string name="registrati">Registrati</string>
+
+    <string name="benvenuti">Benvenuti sulla vostra cartoleria a portata di touch!</string>
+    <string name="intro">Registrati o accedi per scoprire tutte le nostre offerte</string>
+    <string name="accedi">Accedi</string>
+</resources>
