@@ -10,14 +10,6 @@
         android:name="com.android.example.cartoleria.FirstFragment"
         android:label="@string/first_fragment_label"
         tools:layout="@layout/fragment_first">
-        <action
-            android:id="@+id/action_FirstFragment_to_homeFragment2"
-            app:destination="@id/homeFragment2" />
     </fragment>
-    <fragment
-        android:id="@+id/homeFragment2"
-        android:name="com.android.example.cartoleria.ui.home.HomeFragment"
-        android:label="fragment_home"
-        tools:layout="@layout/fragment_home" />
 
 </navigation>
